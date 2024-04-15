@@ -1,6 +1,6 @@
 
-#Cross-Border Architecture Detection and Inventory Updates
-#Overview
+Cross-Border Architecture Detection and Inventory Updates
+Overview
 This project aims to integrate cross-border architecture detection with real-time inventory updates to enhance global defense capabilities. By leveraging cutting-edge technologies such as Firebase, OpenCV, React.js, and MongoDB Atlas, we provide a comprehensive solution for monitoring and managing defense assets across borders.
 
 #Features
@@ -13,7 +13,7 @@ Firebase: Authentication, Real-time Database
 OpenCV: Image processing and architecture detection
 React.js: Frontend development for user interface
 MongoDB Atlas: Cloud-based database for storing inventory data
-#Installation
+Installation
 Clone the repository:
 bash
 git clone <repository-url>
@@ -23,18 +23,18 @@ bash
 cd <project-directory>
 Install dependencies:
 npm install
-#Configuration
+Configuration
 Set up Firebase project and obtain API keys
 Configure Firebase authentication and real-time database
 Update Firebase configuration in src/firebase.js file
 Set up MongoDB Atlas and configure database connection
-#Usage
+Usage
 Run the application:
 sql
 
 npm start
 Access the application in your web browser at http://localhost:3000
-#Contributors
+Contributors
 Yatiraj Upadhyay
 Utkarsh Mohan
 Sahil Gupta
